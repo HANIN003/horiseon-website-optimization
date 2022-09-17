@@ -9,10 +9,7 @@ N/A
 ## Usage
 
 ## Credits
-Chris Lemmon
-Alexander Frankhouser
-Stephanie Maldonado
-Joseph Labadia
+Chris Lemmon, Alexander Frankhouser, Stephanie Maldonado, and Joseph Labadia
 
 ## License
 N/A
