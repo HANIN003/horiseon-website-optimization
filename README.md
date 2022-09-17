@@ -7,6 +7,9 @@ This repo was made to refactor the Horiseon website HTML code into a more semant
 N/A
 
 ## Usage
+https://hanin003.github.io/horiseon-website-optimization/
+
+![alt text](assets/images/Horiseon%20Website.jpeg)
 
 ## Credits
 Chris Lemmon, Alexander Frankhouser, Stephanie Maldonado, and Joseph Labadia
